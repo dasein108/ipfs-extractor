@@ -1,0 +1,132 @@
+# Community Call Summary 🟢 May 16th
+
+![resus (41) (2)](https://hackmd.io/_uploads/S1wvDO2Q0.png)
+
+## Cybergraph
+
+In the previous two weeks, there were 45 active neurons, 22 tweets, 53 new follows, and 12,271 new cyberlinks created.
+
+![](https://hackmd.io/_uploads/SkNwXm8QR.png)
+
+[@Mcmerritt](https://cyb.ai/@mcmerritt) holds the first place with 11,411 cyberlinks, followed by [@cybergudwin](https://cyb.ai/@cybergudwin) in second place with 137 cyberlinks.
+In third place is [@assigen](https://cyb.ai/@assigen)
+
+![](https://hackmd.io/_uploads/BJNmEmI7A.png)
+
+## Game of Tensors
+
+We have two important news. We're almost ready to launch [Game of Tensors](https://github.com/cybercongress/cybertensor). The game will start on 27th of May. Finished proposal for rewards allocation for Game of Tensors. The game will play till 1st of August. Rewards already allocated, but decided to continue Game of Tensors for two to three more months, making it a two-stage event. First stage with currently allocated rewards till 1st of August, followed by a proposal to allocate more resources for the second phase of Game of Tensors. Significant effort in recent weeks with the cybernet application on [spacepussy.ai](https://spacepussy.ai/cybernet/). Several iterations completed, with more to come. Ready to onboard ambassadors, fans, and Community leaders for the [Test Flight](https://cyb.ai/oracle/ask/QmWW3cnRjkvSVavSh5gBP4cszBxbbqqovPbHyjdPoCZN9s) starting today.
+
+![](https://hackmd.io/_uploads/Hy378unmC.png)
+
+For Game of Tensors, two Cybertensor contracts will be launched. This is a major difference from [BitTensor](https://bittensor.com/), which has one Network root and subnetworks. In the Network, each Tensor is a single contract, allowing many Tensors to be launched. Root networks with subnets can be launched with different tokens by community members. The first one is Graph Verse, the second verse is P2P Verse (ML Verse). In Game of Tensors rewards will be split 50% to Graph Verse and 50% to P2P verse
+
+In Graph Verse, neurons can join [subnets](https://spacepussy.ai/cybernet/subnets), creating different topics in the knowledge graph. Teachers and professors (teachers with a top stake) participate in different subnets on various topics, sharing knowledge with Cybergraph and earning rewards. All neurons can join different subnets, creating Cyber Links based on their topics. Topics can range from Twitter posts and memes to AI, biology, cosmology, etc. Subgraph Networks can be launched, engaging the Community to distribute rewards from the Graph root network to the topic.
+
+The application is already working, anyone [can join](https://spacepussy.ai/cybernet). [@Fftod](https://spacepussy.ai/@fftod) has prepared [documentation](https://cyb.ai/oracle/ask/QmWW3cnRjkvSVavSh5gBP4cszBxbbqqovPbHyjdPoCZN9s) and a guide on how to join the Test Flight program, to be published to the community soon. Users can participate and start earning rewards from the network for content creation and publication.
+
+![](https://hackmd.io/_uploads/HJ0RTOhmA.png)
+
+The second verse is P2P Verse (ML Verse), similar to BitTensor. Verses can be launched in different modes in the Graph Network, where the subjective value participants and subnet members bring is Cyberlinks. In P2P verse, software is launched on different nodes globally, running various subnets' software. Examples include text processing, image generation, storage, and other infrastructure.
+
+Everything that BitTensor's community has made is compatible, as APIs are identical. To launch any existing BitTensor subnet, simply fork the subnet on GitHub, change the library from BitTensor to CyberTensor, adjust dependencies in the code, and make small modifications. This will allow the subnet to connect to Bostrom.
+
+Through the Game of Tensors, anyone can launch their own verse. Each is just one contract, allowing the creation of an instance of this contract to launch a custom verse with unique rewards in any community token or IBC token through the Cosmos ecosystem.
+
+The goal is to split all rewards into equal parts for P2P and Graph rewards. In each category, rewards will be given to top subnet creators and protocol rewards. For P2P, the top six forked subnets and top six native subnets (such as LLM, picture generation, voice recognition, etc.) will receive rewards. Additionally, some rewards will be allocated for ambassadors. The reward program will be presented next week.
+
+![](https://hackmd.io/_uploads/Sy_hTbUXA.png)
+
+The [documentation](https://docs.spacepussy.ai/) for P2P verse is essentially identical to BitTensor documentation. This is because Cybertensor's CLI tooling and library are the same as BitTensor's.
+
+The next release of the Cybertensor CosmWASM contract in the Cybernet repository is almost finished and will be published soon. The game will start on May 27 with the deployment of two contracts alongside the new release. Additionally, plans are underway to launch Cybertensor on Bostrom.
+
+![](https://hackmd.io/_uploads/B1pZkfUQ0.png)
+
+## Cyber
+
+Small updates for validators: the decision is to fully focus on the Game of Tensors launch. Previously, the Cyber team aimed to complete the next Bostrom upgrade by the end of May, and it is already in the testing phase. However, the decision has been changed to prioritize the Game of Tensors launch. The upgrade will now be planned for the beginning of June, allowing full focus on the Game of Tensors launch. This involves coordination from the Cyber team, Congress, Community leaders, and members.
+
+Special content updates for Twitter will be prepared, allowing community members and neurons in the Twitter Hype subnet to participate. This subnet will be launched on graphers as the first subnet. Participants can write posts, share engagement ideas on Twitter, create Cyber Links with their posts, and the community will decide who creates the best content, including posts and memes.
+
+![](https://hackmd.io/_uploads/ByTxZML70.png)
+
+
+
+
+
+
+## Cyb
+
+The main page of [Cybernet](https://spacepussy.ai/cybernet) is organized into three sections. The first section provides all information about Cybernet. The second section is choosing a Graph Verse or ML(P2P) Verse. The third section is split into three columns: 'Stake', 'Join Subnets', and 'Docs and Code'
+
+![](https://hackmd.io/_uploads/HkGIJa37R.png)
+
+### Join Subnets:
+
+To register in a subnet, select [all subnets](https://spacepussy.ai/cybernet/subnets). This will display a list of all available subnets.
+
+![](https://hackmd.io/_uploads/H1rPnf8mR.png)
+
+Next, you need to select the subnet you need by clicking on its number. A list of all participants registered in this subnet will open. To register you will need PUSSY tokens. Please be aware that each subnetwork has a different registration fee, which varies depending on its parameters and the current demand for participation. Click the registr to subnet button to continue.
+
+
+![](https://hackmd.io/_uploads/SJye7TnXR.png)
+
+
+### Stake
+  If user tap on the '[Stats](https://spacepussy.ai/cybernet/staking/my)', he can view information about his stake positions.
+
+  ![](https://hackmd.io/_uploads/H1DKjG8mC.png)
+
+  To view the operators of all subnets in the 'stake' column, click [operators](https://spacepussy.ai/cybernet/delegators)
+
+  ![](https://hackmd.io/_uploads/BkUlifLXA.png)
+
+  For example, if user want to check a neuron's participation, he can explore their contributions.
+
+  ![](https://hackmd.io/_uploads/Bk7IaM8mC.png)
+
+  Then the user, having assessed the contribution to the subnet, can [grade them from 1 to 10](https://spacepussy.ai/cybernet/subnets/1/weights). The weights will be updated, and he can view them in a table.
+
+  ![](https://hackmd.io/_uploads/Synj6z8mR.png)
+
+
+
+A more refined design with corrections of all inaccuracies and errors, as well as thoughtful naming, will be available soon. We invite the community to participate in [Test Flight](https://cyb.ai/oracle/ask/QmWW3cnRjkvSVavSh5gBP4cszBxbbqqovPbHyjdPoCZN9s) now and leave their feedback. Additionally, we suggest taking a look at some of our current developments.
+
+### Main Page
+
+The main page provides three different flows: 'Stake', 'Subnets' and 'Docs and Code'.
+
+![](https://hackmd.io/_uploads/r1bJeXIXR.png)
+
+### Stake Flow
+In the stake flow, user can explore all creators, similar to the current implementation.
+
+![](https://hackmd.io/_uploads/BJ_xe7UmC.png)
+
+User can also view all stakers, filter by the amount of stake, and check detailed information about each staker.
+
+![](https://hackmd.io/_uploads/H1XSxX8mA.png)
+
+### Subnets Flow
+In the subnets flow, there is a table displaying all subnets.
+
+![](https://hackmd.io/_uploads/ryEOxXLXA.png)
+
+User can check inside a subnet, seeing columns for creators, job done, grades, and a slider for changes.
+
+![](https://hackmd.io/_uploads/Skk5eXLm0.png)
+
+User can then check the work of each creator, already filtered by the participant.
+
+![](https://hackmd.io/_uploads/BkwJWQIXR.png)
+
+Additionally, user can view stats for a creator, including total stake received, daily return, and other information. There is also a table of subnets the creator is participating in and a table of stakers who have staked on the creator.
+
+![](https://hackmd.io/_uploads/SyewWmLm0.png)
+
+## Join our community!
+
+📢 Don't forget to join our community! Follow us on [Discord](https://discord.gg/ARwv74ZyGH), [Telegram](https://t.me/bostrom_news), and [Twitter](https://twitter.com/cyber_devs) for the latest updates and discussions. Let's build a connected and informed community. Create [cyberlinks](https://cyb.ai/) and [contribute](https://github.com/cybercongress) to the network! See you there!
